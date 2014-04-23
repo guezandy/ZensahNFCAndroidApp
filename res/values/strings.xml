@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zensah</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_zip">ZipActivity</string>
+    <string name="snapppp">snap</string>
+    <string name="title_activity_workout">WorkoutActivity</string>
+    <string name="writeToTag">Write To Tag</string>
+    <string name="id">ID</string>
+    <string name="home">Home</string>
+    <string name="brand">Workout Description: </string>
+    <string name="price">Reps:</string>
+    <string name="purchase">Start?</string>
+    <string name="favoriteButton">Favorite</string>
+    <string name="count">10</string>
+    <string name="neww">Next Workout</string>
+
+</resources>
